@@ -771,7 +771,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                      <br/>
                      <sub><b>Aalam Ansari</b></sub>
                    </a>
-               </td>
+                </td>
+                <td align="center">
+                <a href="https://github.com/eliterks">
+                    <img src="https://avatars.githubusercontent.com/u/175223769?v=4" width="100px;" alt="Travis Keefe"/>
+                    <br />
+                    <sub><b>Ravi Kumar Srivastava</b></sub>
+                </a> 
+                </td>
                <td align="center">
                   <a href="https://github.com/SIDDHARTH-PAT">
                     <img src="https://avatars.githubusercontent.com/u/57358395?s=400&u=4fca6a7934fe52b320bd41e84fb583b515883d2c&v=4" width="100px;" alt="Siddharth Patel"/>
